@@ -1,5 +1,6 @@
 # MalumMenu Installer
 
+Go check out the creator of [MalumMenu](https://github.com/scp222thj/MalumMenu) [scp22thj](https://github.com/scp222thj)
 This script automates the process of downloading and installing [MalumMenu](https://github.com/scp222thj/MalumMenu) for Among Us on Windows. MalumMenu is a mod for the game Among Us that enhances gameplay with additional features.
 
 ## Features
